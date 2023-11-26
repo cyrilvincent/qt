@@ -1,0 +1,7 @@
+PySide est un binding qui permet de lier le langage Python avec la bibliothèque Qt, disponible à l'origine en C++. Il constitue une alternative aux interfaces Tkinter
+https://courspython.com/interfaces.html
+https://www.guru99.com/fr/pyqt-tutorial.html
+https://tcuvelier.developpez.com/tutoriels/pyqt/bases/
+https://tcuvelier.developpez.com/tutoriels/pyqt/introduction-pyqt/
+https://ogirardot.developpez.com/introduction-pyqt/
+https://www.pythonguis.com/pyqt6-tutorial/
